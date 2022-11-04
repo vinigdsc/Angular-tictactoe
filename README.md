@@ -1,5 +1,9 @@
 # JogoDaVelha
 
+![git tictac](https://user-images.githubusercontent.com/100698715/200037316-dba96711-196e-494a-aab1-2930bb5b433c.png)
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.8.
 
 ## Development server
@@ -25,3 +29,4 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
